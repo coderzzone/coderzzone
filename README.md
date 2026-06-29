@@ -1,123 +1,162 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16213e&height=220&section=header&text=EPHREM%20KETACHEW&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=E94560" alt="Ephrem Ketachew" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f172a,100:00f5d4&height=230&section=header&text=CODERZZONE&fontSize=72&fontAlignY=36&animation=twinkling&fontColor=38BDF8" alt="CoderzZone" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Ephrem!+%F0%9F%91%8B;Software+Engineer+%26+Full-Stack+Developer;Competitive+Programmer;Top+0.2%25+Globally+on+LeetCode;A2SV+G7C+%231+Top+Performer" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00F5D4&center=true&vCenter=true&width=900&height=55&lines=Hi,+I'm+CoderzZone+%F0%9F%91%8B;Cybersecurity+Learner+%7C+CTF+Player;Active+Directory+%26+Web+Exploitation;Linux,+Networking,+Privilege+Escalation;Breaking+Labs,+Building+Skills,+Documenting+the+Journey" alt="Typing Intro" />
 
   <br>
 
   <p>
-    <a href="https://linkedin.com/in/ephrem-ketachew"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ephremketachew@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://leetcode.com/ephrem-ketachew"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-    <a href="https://drive.google.com/file/d/1Ugg2YNProWmEXwEjq5ovLlNWv5gYnRgR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
+    <a href="https://github.com/coderzzone"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/coderzzone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:coderzzone@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
   </p>
 
 </div>
 
-<br><br>
-
----
-
-## 👤 About Me
-
-**Ephrem Ketachew | Software Engineer & A2SV Fellow | MERN**
-
-*Bridging the gap between algorithmic theory and real-world scalability.*
-
-> **LeetCode:** Top 0.2% Global (1,200+ solved) <br>
-> **Stack:** TypeScript, Node.js, React, Next.js, Python <br>
-> **Recent Win:** 1st Place Cursor Hackathon
-
-Code should be optimal. <br>
-Movies should be epic (*Dune*, *The Dark Knight*, *GoT*).
-
-
-<br><br>
-
----
-
-### 🧠 Technical Arsenal
-
-**🔣 Languages**<br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,html,css" />
-
-**🖥️ Backend & Databases**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,supabase,firebase" />
-
-**🖼️ Frontend & Mobile**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-
-**🔧 Tools & Core**<br>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
-
----
-
-## ⚔️ The Crucible: Algorithmic Warfare
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=2000&color=FFA116&center=true&vCenter=true&width=800&height=50&lines=>_GLOBAL_RANK:+Top+0.2%25+(Out+of+5M++Engineers);>_CONSISTENCY:+321-Day+Unbroken+Execution+Streak;>_THOUGHT_PROCESS:+O(n)+Time,+O(1)+Space,+Optimal+Substructure;>_TOPICS_MASTERED:+Dynamic+Programming,+Graph+Theory,+Tries;>_1,209+ALGORITHMS+CONQUERED" alt="Elite Thought Process" />
-
-</div>
-
-> *"To build FAANG-caliber architecture, you need a FAANG-caliber foundation. I don't just solve problems; I dissect them. Every solution is optimized for time and space complexity, driven by a relentless, daily protocol."*
-
 <br>
 
-<div align="center">
-  <a href="https://leetcode.com/ephrem-ketachew">
-  <img src="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/leetcode.svg" alt="LeetCode Stats & Streak" width="48%" />
-</a>
-  <a href="https://github.com/ephrem-ketachew/data-structure-and-algorithms">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ephrem-ketachew&repo=data-structure-and-algorithms&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DSA Repository" width="48%" />
-  </a>
-</div>
+---
 
-</div>
+## About Me
+
+**CoderzZone | Cybersecurity Enthusiast | CTF Player | Offensive Security Learner**
+
+*I study systems by breaking, defending, documenting, and rebuilding them stronger.*
+
+> **Focus:** Web exploitation, Active Directory attacks, Linux/Windows privilege escalation  
+> **Practice:** CTFs, labs, vulnerable machines, writeups, and hands-on security research  
+> **Mindset:** Enumerate deeply, exploit carefully, document clearly, learn continuously
+
+I enjoy turning confusing attack paths into clear notes, scripts, and repeatable methodology.  
+My current lane is offensive security, but I also care about blue-team thinking because good attackers understand detection.
 
 <br>
 
 ---
 
-### 📊 The Metrics
+## Cyber Arsenal
+
+**Core Security Skills**  
+<img src="https://img.shields.io/badge/CTFs-00F5D4?style=for-the-badge&logo=target&logoColor=black" />
+<img src="https://img.shields.io/badge/Active%20Directory-38BDF8?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Exploitation-FF005C?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Privilege%20Escalation-F97316?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Pentesting-8B5CF6?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+**Languages & Scripting**  
+<br>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,html,css,c,cpp" />
+
+**Platforms & Operating Systems**  
+<br>
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,ubuntu,docker,aws" />
+
+**Tools I Use In Labs**  
+<br>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/BloodHound-E11D48?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Impacket-111827?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-6B7280?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+
+<br>
+
+---
+
+## Offensive Security Lab
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ephrem-ketachew&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1600&color=F43F5E&center=true&vCenter=true&width=900&height=55&lines=>_ENUMERATION:+ports,+services,+users,+shares,+versions;>_WEB:+OWASP+Top+10,+auth+bypass,+SQLi,+XSS,+SSRF;>_AD:+Kerberoasting,+AS-REP,+ACLs,+delegation,+lateral+movement;>_PRIVESC:+Linux+SUID,+sudo,+cron,+Windows+tokens,+services;>_REPORTING:+clear+writeups,+screenshots,+impact,+fixes" alt="Cybersecurity Methodology" />
+
+</div>
+
+> *"The exploit is only one step. The craft is in enumeration, patience, clean notes, and understanding why the weakness exists."*
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Red Team Practice</h3>
+      <p>
+        Reconnaissance, vulnerability discovery, exploitation, post-exploitation, credential attacks,
+        persistence concepts, and practical reporting inside legal lab environments.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Blue Team Awareness</h3>
+      <p>
+        Log analysis, detection logic, attack-path mapping, secure configuration, patching priorities,
+        and writing recommendations that defenders can actually use.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Learning Roadmap
+
+```text
+01. Networking fundamentals        -> TCP/IP, DNS, HTTP, routing, VPNs
+02. Linux and Windows internals    -> users, services, permissions, logs
+03. Web application security       -> OWASP Top 10, Burp Suite, API testing
+04. Active Directory hacking       -> Kerberos, LDAP, SMB, BloodHound, Impacket
+05. Privilege escalation           -> Linux/Windows local enumeration and exploit chains
+06. Scripting and automation       -> Python, Bash, PowerShell, custom tooling
+07. Reporting and remediation      -> clear impact, evidence, reproduction, fixes
+```
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderzzone&theme=tokyo-night&hide_border=true&bg_color=050816&color=38BDF8&line=00F5D4&point=F43F5E" alt="Activity Graph" width="100%" />
+
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ephrem-ketachew/ephrem-ketachew/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coderzzone/coderzzone/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coderzzone/coderzzone/output/github-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coderzzone/coderzzone/output/github-snake-dark.svg" width="100%">
   </picture>
 
-   <br><br>
+  <br><br>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ephrem-ketachew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephrem-ketachew&theme=tokyonight&hide_border=true&background=0D1117&v=7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderzzone&theme=tokyonight&hide_border=true&background=050816" alt="GitHub Streak" width="48%" />
 
-  <br>
+  <br><br>
 
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://ghstats.dev/api/card?username=ephrem-ketachew&theme=tokyonight&cache=clear" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=coderzzone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ephrem-ketachew&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderzzone&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ephrem-ketachew&theme=tokyonight&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderzzone&theme=tokyonight&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"It's not who I am underneath, but what I do that defines me." — Batman</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Hack+legally.+Learn+deeply.+Share+clearly.;Security+is+a+discipline,+not+a+shortcut." alt="Footer Typing Animation" />
+
+  <br>
+
+  <i>"Amateurs hack systems. Professionals hack assumptions."</i>
 </div>
